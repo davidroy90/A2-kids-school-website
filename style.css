@@ -347,6 +347,13 @@ body {
   background-color: #555;
 }
 
+/* marquee */
+
+.marquee{
+  width: 100%;
+  direction: left;
+  height: 60px;
+}
 /* footer style */
 
 .footer {
